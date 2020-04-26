@@ -28,7 +28,7 @@
   "author": "Ashley Bibizadeh",
   "license": "MIT",
   "dependencies": {
-    "axios": "0.16.2",
+    "axios": "0.19.2",
     "babel-cli": "6.26.0",
     "babel-core": "6.26.0",
     "babel-loader": "7.1.2",
