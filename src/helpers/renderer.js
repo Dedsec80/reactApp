@@ -7,7 +7,7 @@ import serialize from 'serialize-javascript';
 import {Helmet} from 'react-helmet';
 import Routes from './../client/routes';
 import webConfig from './../../webConfig';
-
+//luis moscoso
 export default (req, store, context) => {
     const content = renderToString(
         <Provider store={store}>
